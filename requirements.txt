@@ -1,0 +1,6 @@
+tinytag
+pydub
+audioread
+pytube
+moviepy
+denoiser
