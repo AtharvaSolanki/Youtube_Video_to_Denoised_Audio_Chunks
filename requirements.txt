@@ -1,3 +1,6 @@
+pandas
+matplotlib
+IPython
 tinytag
 pydub
 audioread
